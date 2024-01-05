@@ -1,0 +1,40 @@
+/* counter.css */
+
+body{
+    background-color: #7b7676; 
+}
+  
+  .App {
+    text-align: center;
+    /* margin-top: 50px; */
+  }
+  
+  .container1 {
+    background-color: #7b7676;
+    margin-top: 50px;
+    padding: 20px;
+    color: rgb(255, 250, 250);
+    border-radius: 20px;
+  }
+  
+  .counter {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .button-container {
+    margin-top: 20px;
+  }
+  
+  .button {
+    font-size: 16px;
+    margin: 0 10px;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  
+  .button-reset {
+    background-color: #dc3545;
+    color: white;
+  }
+  
